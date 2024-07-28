@@ -7,7 +7,7 @@ metadata:
 spec:
   interval: 30s
   ref:
-    branch: master
+    branch: main
   url: https://github.com/Tycho-1/flux-staging2
 Flag --validation has been deprecated, this arg is no longer used, all resources are validated using server-side apply dry-run
 ---
